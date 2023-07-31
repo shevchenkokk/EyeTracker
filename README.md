@@ -1,5 +1,9 @@
 # Айтрекер для анализа состояния глаз, моргания и направления взгляда на изображении
 
+[![Python](https://img.shields.io/badge/Python-3.11.4-green.svg)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.8.0.74-4D00FF.svg)](https://opencv.org/)
+[![dlib](https://img.shields.io/badge/dlib-19.24.2-important.svg)](http://dlib.net/)
+
 Данный проект разработан для обнаружения лица и глаз на кадре с последующим 
 анализом в режиме реального времени с использованием библиотек `cv2` и `dlib`.
 
