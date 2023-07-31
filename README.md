@@ -85,7 +85,6 @@ def main():
         if pressed_key == 27 or pressed_key == ord('q'):
             break
 
-    # освобождение ресурсов
     cap.release()
     cv2.destroyAllWindows()
 
